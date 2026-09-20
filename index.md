@@ -35,7 +35,7 @@ When you uninstall the app, all data associated with your store is deleted immed
 
 ## Your rights
 
-You may request access to or deletion of your data at any time by emailing [your email]. Uninstalling the app achieves the same result immediately.
+You may request access to or deletion of your data at any time by emailing [lowstockalerts.support@gmail.com]. Uninstalling the app achieves the same result immediately.
 
 ## Changes
 
