@@ -46,4 +46,4 @@ We may update this policy. Material changes will be reflected in the date above.
 ## Contact
 
 lowstockalerts.support@gmail.com
-By TUEXORE
+By TEUXORE
