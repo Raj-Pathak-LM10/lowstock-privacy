@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 # Privacy Policy — Low Stock Alerts
 
 *Last updated: 21 September 2026*
