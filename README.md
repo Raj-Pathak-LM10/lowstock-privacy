@@ -1,2 +1,2 @@
-# lowstock-privacy
+# Our Privacy Policy
 Privacy policy for Low Stock Alerts
